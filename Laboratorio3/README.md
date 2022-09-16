@@ -44,6 +44,173 @@
 
 
 # 5. Evidencia
+---
+__Info basica de instancia:__
+![1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/1.png)
+
+---
+
+__Creacion de PuTTy key:__
+![2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/2.png)
+
+---
+
+__Clave Cliente SSH:__
+![3](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/3.png)
+
+---
+
+__Conexion en la consola:__
+![4](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/4.png)
+
+---
+
+__IP estatica:__
+![5](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/5.png)
+
+---
+
+__Dominios freenom:__
+![6](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/6.png)
+
+---
+
+__Remove docker:__
+![8](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/8.png)
+
+---
+
+__Update e instalacion de docker:__
+![9](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/9.png)
+
+---
+
+__Compose docker:__
+![10](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/10.png)
+
+---
+
+__Install git:__
+![11](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/11.png)
+
+---
+
+__Enable docker:__
+![12](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/12.png)
+
+---
+
+__Usermod:__
+![13](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/13.png)
+
+---
+
+__Install letsencrypt:__
+![14](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/14.png)
+
+---
+
+__Install nginx:__
+![15](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/15.png)
+
+---
+
+__Nginx config:__
+![16](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/16.png)
+
+---
+
+__nameservers:__
+![18](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/18.png)
+
+---
+
+__nginx -t:__
+![19](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/19.png)
+
+---
+
+__evidencia de conection nginx:__
+![20](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/20.png)
+
+---
+
+__letsencrypt:__
+![21](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/21.png)
+
+---
+
+__certbot:__
+![22](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/22.png)
+
+---
+
+__Creacion de carpetas wordpress y ssl:__
+![23](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/23.png)
+
+---
+
+__Openssl dhparam:__
+![24](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/24.png)
+
+---
+
+__Safe:__
+![25](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/25.png)
+
+---
+
+__Git clone:__
+![26](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/26.png)
+
+---
+
+__Stop nginx:__
+![27](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/27.png)
+
+---
+
+__docker build:__
+![28](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/28.png)
+
+---
+
+__start docker:__
+![29](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/29.png)
+
+---
+
+__Primer intento Fallido:__
+![30](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/30.png)
+
+---
+
+__Segundo intento ya seguro:__
+![31](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/31.png)
+
+---
+
+__Admin de wp:__
+![32](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/32.png)
+
+---
+
+__Conexion segura:__
+![33](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/33.png)
+
+---
+
+__Certificado valido:__
+![34](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/34.png)
+
+---
+
+__wp con https:__
+![35](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/Laboratorio3/img/35.png)
+
+---
+
+
 
 # referencias:
 
