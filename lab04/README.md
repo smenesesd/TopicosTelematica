@@ -61,20 +61,26 @@ __ComposerVersion:__
 
   __ConexionaWP1:__
 
-  ![ConexionaWP1]()
+  ![ConexionaWP1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/conexionawp1.png)
 
 - Para ingresar a la maquina de wordpress2:
 ```IP: 35.226.63.203```
-__ConexionaWP2:__
 
-  ![ConexionaWP2]()
+  __ConexionaWP2:__
+
+  ![ConexionaWP2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/conexionawp2.png)
+
 - Se hizo la instalacion de nginx en los dos wordpress
 
   __InstalacionNginxWP:__
 
+  ``` sudo apt install nginx -y```
   ![nginxwp](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nginxwp.png)
 
-- Se hizo la instalacion de common que sera la carpteta compartida en el nfs, el cual es instalado con el comando ``` sudo apt install nfs-common```   
+- Se hizo la instalacion de common que sera la carpteta compartida en el nfs, el cual es instalado con el comando ``` sudo apt install nfs-common``` 
+
+  __Instalacion Common:__
+  ![InstalacionCommon]()
    - Se debe de configurar el archivo ubicado en ```/etc/fstab``` de cada wordpress para los archivos compartidos
 
 
