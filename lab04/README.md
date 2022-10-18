@@ -1,4 +1,4 @@
-# info de la materia: Tópicos especiales de telematica 
+# Materia: Tópicos especiales de telematica 
 # Estudiante: Samuel Meneses Diaz, smenesesd@eafit.edu.co
 # Profesor: Edwin Nelson Montoya Munera, emontoya@eafit.edu.co
 # Laboratorio04 Aplicacion monolitica con balanceo y datos distribuidos (BD y archivos)
@@ -238,11 +238,23 @@ __ComposerVersion:__
 - Como se mostro anteriormente primero ingresa a la carpeta .ssh
 
   __Carpeta ssh:__
-  ![carpetassh]()
+
+  ![carpetassh](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/carpetassh.png)
 
 - Luego se conecta mediante ssh continuando con el usuario @ la IP de la Vm que desea iniciar, en este caso se ingreso al DBserver:
 
   __Ingreso:__
-  ![ingreso]()
 
-# 5. Evidencia
+  ![ingreso](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ingreso.png)
+
+# 5. Referencias:
+
+- https://github.com/st0263eafit/st0263-2022-2/tree/main/docker-nginx-wordpress-ssl-letsencrypt
+- https://linuxhint.com/install-and-configure-nfs-server-ubuntu-22-04/
+- https://dev.to/maymeow/docker-volume-on-nfs-1d73
+- https://towardsdatascience.com/sample-load-balancing-solution-with-docker-and-nginx-cf1ffc60e644
+- https://levelup.gitconnected.com/nginx-load-balancing-and-using-with-docker-7e16c49f5d9?gi=7d9ced77f8a1
+- https://docs.docker.com/samples/wordpress/
+- https://www.serverlab.ca/tutorials/linux/web-servers-linux/how-to-scale-wordpress-sites-using-nfs/
+- https://www.youtube.com/watch?v=sspAttJci4I
+- https://www.youtube.com/watch?v=2zlP6n7kQ68
