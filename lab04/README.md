@@ -200,7 +200,12 @@ __ComposerVersion:__
 - Se hace la descarga de nfs kernel ```sudo apt install nfs-kernel-server```
 
   __Instalacion nfs kernel server:__
-  ![nfskernelserver]()
+  ![nfskernelserver](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nfsserverkernel.png)
+
+- Se crea la carpeta share
+
+  __Creacion de carpeta share:__
+  ![CarpetaShare]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
