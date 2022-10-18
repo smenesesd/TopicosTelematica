@@ -191,9 +191,16 @@ __ComposerVersion:__
 
 - Configuracion de mySQL:
 
- __config mySQL:__
- ![configmySQL]()
- ![configmy]()
+  __config mySQL:__
+
+  ![configmySQL](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/configmysql.png)
+  ![configmy](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/configmy.png)
+
+## NFS
+- Se hace la descarga de nfs kernel ```sudo apt install nfs-kernel-server```
+
+  __Instalacion nfs kernel server:__
+  ![nfskernelserver]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
