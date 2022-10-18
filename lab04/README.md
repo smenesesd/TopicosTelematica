@@ -180,8 +180,16 @@ __ComposerVersion:__
 - ``` sudo docker-compose up -d```
 
   __up:__
-  ![DCUp]()
+
+  ![DCUp](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/DCup.png)
+
+- Conexion a mySQL:
+
+  __Conexion a MYSQL:__
+
+  ![mySQL]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
+
 
 # 5. Evidencia
