@@ -165,7 +165,13 @@ __ComposerVersion:__
    ```IP: 34.171.143.167```
 
    __dbServerconexion:__
-   ![dbserverconection]()
+   ![dbserverconection](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/dbservercon.png)
+
+- Intalacion de docker:
+
+  __install docker:__
+  ![InstalldockerDB]()
+
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
 # 5. Evidencia
