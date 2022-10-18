@@ -175,7 +175,12 @@ __ComposerVersion:__
 - Configuracion del archivo ```docker-compose.yaml```
 
   __dbdockerCompose:__
-  ![dbDC.yaml]()
+  ![dbDC.yaml](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/dbDCYAML.png)
+
+- ``` sudo docker-compose up -d```
+
+  __up:__
+  ![DCUp]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
