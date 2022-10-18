@@ -187,7 +187,13 @@ __ComposerVersion:__
 
   __Conexion a MYSQL:__
 
-  ![mySQL]()
+  ![mySQL](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/mySQLDB.png)
+
+- Configuracion de mySQL:
+
+ __config mySQL:__
+ ![configmySQL]()
+ ![configmy]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
