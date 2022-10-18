@@ -205,7 +205,12 @@ __ComposerVersion:__
 - Se crea la carpeta share
 
   __Creacion de carpeta share:__
-  ![CarpetaShare]()
+  ![CarpetaShare](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/CarpetaShare.png)
+
+- Configuracion de acceso a los archivos compartidos:
+
+  __etc/exports:__
+  ![archCompartidos]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
