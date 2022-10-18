@@ -33,9 +33,12 @@ __ssl2:__
    ![ssl2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl2.png)
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
 - Se hizo uso de docker compose version 3.7 para definir y ejecutar aplicaciones de Docker de varios contenedores.
+__ComposerVersion:__
+![ComposeV]()
 - Se hizo uso de un archivo YAML del docker compose para configurar los servicios de las aplicaciones.   
 __YAMLwp1:__
-![YAMLwp1]()
+
+   ![YAMLwp1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/YAMLwp1.png)
 
 - Se hizo uso de contenedores para aislar los dos wordpress, loadBalancer y el dbServer.
 
