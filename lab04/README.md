@@ -11,9 +11,12 @@ __wpress1:__
 ![wpress1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/wp1.png)
 __wpress2:__
 ![wpress2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/wp2.png)
-- Se desplego una VM para la creacion de el balanceador de carga usando NGINX, de tal manera se uso nginx para el dominio y el certificado como el lab03  
+- Se desplego una VM para la creacion de el balanceador de carga usando NGINX, el cual se encarga de redireccionar al wp1 o wp 2 dependiendo de la entrada de trafico al LB, de tal manera se uso nginx para el dominio y el certificado como el lab03  
 __loadbalancer:__
-![loadbalancerIP]()
+![loadbalancerIP](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/lbalancerIP.png)
+- Se desplego una VM en la cual estara ubicada el DataBase Server   
+__dbServer:__
+![dbserverIP]()
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
