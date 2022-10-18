@@ -107,8 +107,23 @@ __ComposerVersion:__
 
   __Conexion a LB:__
 
-  ![ConexionLB]()
+  ![ConexionLB](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/conexionLoadB.png)
 
+- Instalacion de docker y docker compose:
+
+  __Instalacion Docker:__
+
+  ![InstalacionDocker](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/instalacionDocker.png)
+
+- Instalacion de nginx:
+
+  ``` sudo apt install nginx -y```
+
+- Se realizo un clonacion del github del profe en la carpeta ```st0263-2022-2``` 
+- Se modifica el archivo ```etc/nginx/nginx.conf```
+
+  __nginxconf:__
+  ![nginxconf]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
