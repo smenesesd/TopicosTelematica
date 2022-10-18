@@ -169,8 +169,13 @@ __ComposerVersion:__
 
 - Intalacion de docker:
 
-  __install docker:__
-  ![InstalldockerDB]()
+  __Install docker:__
+  ![InstalldockerDB](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/dockerdb.png)
+
+- Configuracion del archivo ```docker-compose.yaml```
+
+  __dbdockerCompose:__
+  ![dbDC.yaml]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
