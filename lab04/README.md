@@ -210,8 +210,14 @@ __ComposerVersion:__
 - Configuracion de acceso a los archivos compartidos:
 
   __etc/exports:__
-  ![archCompartidos]()
 
+  ![archCompartidos](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/archCompartidos.png)
+
+- nfs access a los wp:
+
+  __nfs Access:__
+  
+  ![nfsAccess]()
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
 
