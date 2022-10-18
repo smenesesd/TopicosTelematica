@@ -145,8 +145,13 @@ __ComposerVersion:__
 
   __ExecuteDC:__
 
-  ![esecuteDC]()
+  ![esecuteDC](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/executeDC.png)
 
+- SSl conf
+
+  __ssl conf:__
+
+  ![ssl conf]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
