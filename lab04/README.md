@@ -200,11 +200,13 @@ __ComposerVersion:__
 - Se hace la descarga de nfs kernel ```sudo apt install nfs-kernel-server```
 
   __Instalacion nfs kernel server:__
+
   ![nfskernelserver](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nfsserverkernel.png)
 
 - Se crea la carpeta share
 
   __Creacion de carpeta share:__
+  
   ![CarpetaShare](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/CarpetaShare.png)
 
 - Configuracion de acceso a los archivos compartidos:
