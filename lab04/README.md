@@ -95,10 +95,20 @@ __ComposerVersion:__
      __Fstab:__
 
      ![Fstab](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/fstab.png)
- - Verificacion de la pag web tenga su certificado SSL y entre al wp admin desde el DNS
+ - Verificacion de la pag web tenga su certificado SSL y entre al wp admin desde el DNS   
 
-  __wp-admin:__
-  ![wpadmin]()
+   __wp-admin:__
+  ![wpadmin](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/wpadmin.png)
+
+## Loadbalancer
+- Para ingresar al loadbalancer:
+
+  ``` IP:34.173.65.3```
+
+  __Conexion a LB:__
+
+  ![ConexionLB]()
+
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
