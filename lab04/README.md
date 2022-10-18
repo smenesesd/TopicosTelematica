@@ -10,7 +10,10 @@ Se hizo un laboratorio basado en el lab03 en la cual se habia desplegado una apl
 __wpress1:__
 ![wpress1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/wp1.png)
 __wpress2:__
-![wpress2]()
+![wpress2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/wp2.png)
+- Se desplego una VM para la creacion de el balanceador de carga usando NGINX, de tal manera se uso nginx para el dominio y el certificado como el lab03  
+__loadbalancer:__
+![loadbalancerIP]()
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
