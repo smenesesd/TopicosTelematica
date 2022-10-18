@@ -1,7 +1,7 @@
 # info de la materia: Tópicos especiales de telematica 
 # Estudiante: Samuel Meneses Diaz, smenesesd@eafit.edu.co
 # Profesor: Edwin Nelson Montoya Munera, emontoya@eafit.edu.co
-# <Laboratorio04 Aplicacion monolitica con balanceo y datos distribuidos (BD y archivos)>
+# Laboratorio04 Aplicacion monolitica con balanceo y datos distribuidos (BD y archivos)
 # 1. Breve descripcion de la actividad
 Se hizo un laboratorio basado en el lab03 en la cual se habia desplegado una aplicacion monolitica basada en contenedores en un solo servidor con un dominio ```smenesesd.tk ``` y un certificado SSL, la mejora que se le hizo a este laboratorio basado en lo anteriormente dicho fue mejorar la disponibilidad siendo dividida en varios nodos.
 
@@ -32,9 +32,10 @@ __ssl2:__
 
    ![ssl2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl2.png)
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
-- Se hizo uso de docker compose version 3.7 para definir y ejecutar aplicaciones de Docker de varios contenedores.
+- Se hizo uso de docker compose para definir y ejecutar aplicaciones de Docker de varios contenedores.
 __ComposerVersion:__
-![ComposeV]()
+
+  ![ComposeV](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/composeVersion.png)
 - Se hizo uso de un archivo YAML del docker compose para configurar los servicios de las aplicaciones.   
 __YAMLwp1:__
 
@@ -43,6 +44,23 @@ __YAMLwp1:__
 - Se hizo uso de contenedores para aislar los dos wordpress, loadBalancer y el dbServer.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
+- Se hizo uso de docker compose version ``` 3.7 ```
+
+__ComposerVersion:__
+
+  ![ComposeV](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/composeVersion.png)
+
+- Nginx como servidor web en su version ```1.18.0```
+- MySQl como dbServer en su version ```8.0.29```
+- GCP suite de aplicaciones en nube 
+- S.O ```Ubuntu 20.04```
+
+## Wordpress
+- Se hizo la instalacion de nginx en los dos wordpress
+
+__InstalacionNginxWP:__
+
+  ![nginxwp]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
