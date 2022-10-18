@@ -151,7 +151,13 @@ __ComposerVersion:__
 
   __ssl conf:__
 
-  ![ssl conf]()
+  ![ssl conf](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/sslconfig.png)
+
+- Configuracion de nginx con ssl
+
+  __sslNginxConf:__
+
+  ![sslNginxConf]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
