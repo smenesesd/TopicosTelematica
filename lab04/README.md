@@ -157,8 +157,15 @@ __ComposerVersion:__
 
   __sslNginxConf:__
 
-  ![sslNginxConf]()
+  ![sslNginxConf](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/sslnginxconf.png)
 
+## DBServer
+- Para ingresar a la base de datos:
+
+   ```IP: 34.171.143.167```
+
+   __dbServerconexion:__
+   ![dbserverconection]()
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
 # 5. Evidencia
