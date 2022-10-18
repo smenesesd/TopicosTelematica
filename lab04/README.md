@@ -19,10 +19,14 @@ __dbServer:__
 ![dbserverIP](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/dbserver.png)
 - Se desplego un VM llamada nfs, el cual es un servidor en el cual estaran los archivos compartidos de los dos wordpress   
 __nfs:__
-![nfs]()
+![nfs](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nfs.png)
+- Se habilito el puerto 443 para HTTPS protocol. 
 - Se creo un Cloud DNS el cual GCP da la facilidad de enlazarlo con tu DNS que en mi caso seria ``` smenesesd.tk ```. En los detalles de zona se agregaron conjuntos de registros de tipo TXT, CNAME, A, NS, SOA.   
 __cloudDNS:__
 ![cloudDNS](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/cloudDNS.png)
+- Como el lab03 se utilizo certbot y letsencrypt para generar y tener la gestion del certificado ssl y el cifrado HTTPS de los wordpress.   
+__ssl:__
+![ssl]()
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
