@@ -219,11 +219,18 @@ __ComposerVersion:__
   
   ![nfsAccess](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nfsaccess.png)
 
-- ```sudo ufw enable ```
+- configuracion ```ufw enable ```
 
   __enableNFS:__
-  ![enableNFS]()
+
+  ![enableNFS](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/enableNFS.png)
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
+
+## IPs:
+
+  __IPs:__
+  ![ips]()
+  ![ip]() 
 
 
 # 5. Evidencia
