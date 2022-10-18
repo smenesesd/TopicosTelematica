@@ -8,7 +8,9 @@ Se hizo un laboratorio basado en el lab03 en la cual se habia desplegado una apl
 ## 1.1 Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor. (Requerimientos funcionales y no funcionales)
 -  Se desplegaron dos maquinas virtuales de wordpress en GCP, cada una con su direccion IP elastica  
 __wpress1:__
-![1]()
+![wpress1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/wp1.png)
+__wpress2:__
+![wpress2]()
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
