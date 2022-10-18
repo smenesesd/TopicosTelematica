@@ -77,10 +77,17 @@ __ComposerVersion:__
   ``` sudo apt install nginx -y```
   ![nginxwp](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nginxwp.png)
 
-- Se hizo la instalacion de common que sera la carpteta compartida en el nfs, el cual es instalado con el comando ``` sudo apt install nfs-common``` 
+- Instalacion de docker y docker compose:
+
+  __Instalacion Docker:__
+
+  ![InstalacionDocker]()
+ 
+
+- Se hizo la instalacion de common que sera la carpteta compartida en el nfs, el cual es instalado con el comando ``` sudo apt install nfs-common``` en los dos wordpress
 
   __Instalacion Common:__
-  ![InstalacionCommon]()
+  ![InstalacionCommon](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/instalacionCommon.png)
    - Se debe de configurar el archivo ubicado en ```/etc/fstab``` de cada wordpress para los archivos compartidos
 
 
