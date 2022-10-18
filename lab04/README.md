@@ -26,10 +26,18 @@ __cloudDNS:__
 ![cloudDNS](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/cloudDNS.png)
 - Como el lab03 se utilizo certbot y letsencrypt para generar y tener la gestion del certificado ssl y el cifrado HTTPS de los wordpress.   
 __ssl:__
-![ssl](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl.png)   
+   
+   ![ssl](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl.png)   
 __ssl2:__
-![ssl2]()
+
+   ![ssl2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl2.png)
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
+- Se hizo uso de docker compose version 3.7 para definir y ejecutar aplicaciones de Docker de varios contenedores.
+- Se hizo uso de un archivo YAML del docker compose para configurar los servicios de las aplicaciones.   
+__YAMLwp1:__
+![YAMLwp1]()
+
+- Se hizo uso de contenedores para aislar los dos wordpress, loadBalancer y el dbServer.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
