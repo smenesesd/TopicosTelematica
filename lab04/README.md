@@ -123,7 +123,13 @@ __ComposerVersion:__
 - Se modifica el archivo ```etc/nginx/nginx.conf```
 
   __nginxconf:__
-  ![nginxconf]()
+
+  ![nginxconf](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nginxconf.png)
+
+- Se modifica el docker-compose ```docker-compose.yml```
+
+  __docker-composeLB:__
+  ![docker-composeLB]()
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
