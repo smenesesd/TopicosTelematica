@@ -225,12 +225,24 @@ __ComposerVersion:__
 
   ![enableNFS](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/enableNFS.png)
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
-
+## Dominio:
+ ``` smenesesd.tk```
+## URL:
+ ``` lab4.smenesesd.tk```     
 ## IPs:
+-  __IPs:__   
+   ![ips](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ips.png)
+  ![ip](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ip.png) 
 
-  __IPs:__
-  ![ips]()
-  ![ip]() 
+## Acceso a las VM:
+- Como se mostro anteriormente primero ingresa a la carpeta .ssh
 
+  __Carpeta ssh:__
+  ![carpetassh]()
+
+- Luego se conecta mediante ssh continuando con el usuario @ la IP de la Vm que desea iniciar, en este caso se ingreso al DBserver:
+
+  __Ingreso:__
+  ![ingreso]()
 
 # 5. Evidencia
