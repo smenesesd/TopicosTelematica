@@ -16,7 +16,10 @@ __loadbalancer:__
 ![loadbalancerIP](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/lbalancerIP.png)
 - Se desplego una VM en la cual estara ubicada el DataBase Server   
 __dbServer:__
-![dbserverIP]()
+![dbserverIP](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/dbserver.png)
+- Se creo un Cloud DNS el cual GCP da la facilidad de enlazarlo con tu DNS que en mi caso seria ``` smenesesd.tk ```. En los detalles de zona se agregaron conjuntos de registros de tipo TXT, CNAME, A, NS, SOA.   
+__cloudDNS:__
+![cloudDNS]()
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
