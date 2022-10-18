@@ -129,7 +129,24 @@ __ComposerVersion:__
 - Se modifica el docker-compose ```docker-compose.yml```
 
   __docker-composeLB:__
-  ![docker-composeLB]()
+
+  ![docker-composeLB](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/docker-composeLB.png)
+
+- Se instalo letsencrypt y certbot
+
+  __ssl:__
+   
+   ![ssl](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl.png)   
+  __ssl2:__
+
+   ![ssl2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl2.png)
+
+- Execute docker-compose
+
+  __ExecuteDC:__
+
+  ![esecuteDC]()
+
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
