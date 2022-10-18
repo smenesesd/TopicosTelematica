@@ -26,7 +26,9 @@ __cloudDNS:__
 ![cloudDNS](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/cloudDNS.png)
 - Como el lab03 se utilizo certbot y letsencrypt para generar y tener la gestion del certificado ssl y el cifrado HTTPS de los wordpress.   
 __ssl:__
-![ssl]()
+![ssl](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/ssl.png)   
+__ssl2:__
+![ssl2]()
 # 2. Informaión general de diseño de alto nivel, arquitectura, patrones , mejores practicas utilizadas.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
