@@ -81,7 +81,7 @@ __ComposerVersion:__
 
   __Instalacion Docker:__
 
-  ![InstalacionDocker]()
+  ![InstalacionDocker](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/instalacionDocker.png)
  
 
 - Se hizo la instalacion de common que sera la carpteta compartida en el nfs, el cual es instalado con el comando ``` sudo apt install nfs-common``` en los dos wordpress
@@ -89,6 +89,9 @@ __ComposerVersion:__
   __Instalacion Common:__
   ![InstalacionCommon](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/instalacionCommon.png)
    - Se debe de configurar el archivo ubicado en ```/etc/fstab``` de cada wordpress para los archivos compartidos
+
+   __Fstab:__
+   ![Fstab]()
 
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
