@@ -56,11 +56,27 @@ __ComposerVersion:__
 - S.O ```Ubuntu 20.04```
 
 ## Wordpress
+- Para ingresar a la maquina de wordpress1:
+```IP: 34.122.154.199```
+
+  __ConexionaWP1:__
+
+  ![ConexionaWP1]()
+
+- Para ingresar a la maquina de wordpress2:
+```IP: 35.226.63.203```
+__ConexionaWP2:__
+
+  ![ConexionaWP2]()
 - Se hizo la instalacion de nginx en los dos wordpress
 
-__InstalacionNginxWP:__
+  __InstalacionNginxWP:__
 
-  ![nginxwp]()
+  ![nginxwp](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/master/lab04/img/nginxwp.png)
+
+- Se hizo la instalacion de common que sera la carpteta compartida en el nfs, el cual es instalado con el comando ``` sudo apt install nfs-common```   
+   - Se debe de configurar el archivo ubicado en ```/etc/fstab``` de cada wordpress para los archivos compartidos
+
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programacion, librerias, paquetes, etc, con sus numeros de versiones.
 
