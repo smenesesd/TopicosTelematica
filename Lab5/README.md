@@ -43,3 +43,7 @@ Se hace la configuracion de la clave EC2, en este caso puse la que habia hecho p
 __Decimo paso:__   
    ![AWScluster](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/AWSCluster.png)   
 Se verifica en la pestaña de cluster que su cluster este en proceso de creacion, esto puede llegar a durar 25 min o mas. 
+
+__Verificacion del lanzamiento del cluster:__   
+   ![clusterReady]()   
+   Se verifica la creacion exitosa de nuestro cluster
