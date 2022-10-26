@@ -41,7 +41,7 @@ __Noveno paso:__
 Se hace la configuracion de la clave EC2, en este caso puse la que habia hecho para el trabajo en redis
 
 __Decimo paso:__   
-   ![AWScluster](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/AWSCluster.png)   
+   ![awsCluster]()   
 Se verifica en la pestaña de cluster que su cluster este en proceso de creacion, esto puede llegar a durar 25 min o mas. 
 
 __Verificacion del lanzamiento del cluster:__   
@@ -49,3 +49,12 @@ __Verificacion del lanzamiento del cluster:__
    Se verifica la creacion exitosa de nuestro cluster
 
 # Creacion de bucket
+__Pagina Principal de S3 para la creacion de nuestro bucket:__   
+   ![1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/1.png)
+
+__Creacion del bucket:__   
+  ![2]()   
+  Se hace la creacion del bucket simplemente cambiandole el nombre como lo habiamos puesto en la persistencia para el notebook
+
+__
+
