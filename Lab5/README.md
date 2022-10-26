@@ -41,7 +41,7 @@ __Noveno paso:__
 Se hace la configuracion de la clave EC2, en este caso puse la que habia hecho para el trabajo en redis
 
 __Decimo paso:__   
-   ![awsCluster]()   
+   ![awsCluster](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/AWScluster.png)   
 Se verifica en la pestaña de cluster que su cluster este en proceso de creacion, esto puede llegar a durar 25 min o mas. 
 
 __Verificacion del lanzamiento del cluster:__   
