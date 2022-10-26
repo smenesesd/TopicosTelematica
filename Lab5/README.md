@@ -45,5 +45,5 @@ __Decimo paso:__
 Se verifica en la pestaña de cluster que su cluster este en proceso de creacion, esto puede llegar a durar 25 min o mas. 
 
 __Verificacion del lanzamiento del cluster:__   
-   ![clusterReady]()   
+   ![clusterReady](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/clusterReady.png)   
    Se verifica la creacion exitosa de nuestro cluster
