@@ -90,5 +90,9 @@ __Ingreso a zeppelin:__
   Verificamos de que sea posible el ingreso a Zeppelin
 
 __Verificamos el uso de spark en zeppelin:__  
-  ![zeppelinSpark]()   
+  ![zeppelinSpark](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/zeppelinSpark.png)   
   Se ingresan unos comandos a la linea de codigo para verificar el uso de spark en zeppelin.
+
+__Verificacion del archivo prueba en jupyter en S3:__   
+  ![verifPruebaS3]()   
+  
