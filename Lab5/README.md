@@ -57,7 +57,8 @@ __Creacion del bucket:__
   Se hace la creacion del bucket simplemente cambiandole el nombre como lo habiamos puesto en la persistencia para el notebook
 
 __DNS para la conexion del master:__   
-  ![3]()   
-  ![4]()   
-  Nos metemos a el cluster creado y nos conectamos al master medio SSH
+  ![3](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/4.png)   
+  ![4](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/5.png)   
+  - Comprobe la conexion al master desde dos maquinas diferentes, desde un S.O apple y desde un windows 
+  - Nos metemos a el cluster creado y nos conectamos al master medio SSH
 
