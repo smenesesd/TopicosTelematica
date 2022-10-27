@@ -78,5 +78,9 @@ __Creacion de un nuevo bucket en S3:__
   Aqui se puede mostrar como se creo un nuevo bucket en la pestaña de S3 llamada datasetssmenesesd, y en este S3 es donde se van a almacenar datos que siempre van a permanecer.
 
 __Ingreso a JupyterHUB:__   
-  ![entramosjupyterHUB]()   
+  ![entramosjupyterHUB](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/entramosjupyterHUB.png)   
   Podemos ver que logramos entrar a jupyterHUB y estamos en el login
+
+__Verificacion de Spark en jupyter:__   
+  ![verifSpark]()   
+  En este SS podemos verificar que en jupyter si esta bien configurado spark.
