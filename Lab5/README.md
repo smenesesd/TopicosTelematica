@@ -94,5 +94,8 @@ __Verificamos el uso de spark en zeppelin:__
   Se ingresan unos comandos a la linea de codigo para verificar el uso de spark en zeppelin.
 
 __Verificacion del archivo prueba en jupyter en S3:__   
-  ![verifPruebaS3]()   
-  
+  ![verifPruebaS3](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/verifPruebaS3.png)   
+
+__Finalizamos el cluster:__   
+  ![finCluster]()   
+  Y ya por ultimo finalizamos el cluster y si es necesario volver a usarlo, lo clonamos con los mismos ajustes y eso es todo
