@@ -82,5 +82,9 @@ __Ingreso a JupyterHUB:__
   Podemos ver que logramos entrar a jupyterHUB y estamos en el login
 
 __Verificacion de Spark en jupyter:__   
-  ![verifSpark]()   
+  ![verifSpark](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/verifSpark.png)   
   En este SS podemos verificar que en jupyter si esta bien configurado spark.
+
+__Ingreso a zeppelin:__   
+  ![mainZeppelin]()   
+  Verificamos de que sea posible el ingreso a Zeppelin
