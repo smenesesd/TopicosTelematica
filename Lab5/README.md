@@ -53,8 +53,11 @@ __Pagina Principal de S3 para la creacion de nuestro bucket:__
    ![1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/1.png)
 
 __Creacion del bucket:__   
-  ![2]()   
+  ![2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/2.png)   
   Se hace la creacion del bucket simplemente cambiandole el nombre como lo habiamos puesto en la persistencia para el notebook
 
-__
+__DNS para la conexion del master:__   
+  ![3]()   
+  ![4]()   
+  Nos metemos a el cluster creado y nos conectamos al master medio SSH
 
