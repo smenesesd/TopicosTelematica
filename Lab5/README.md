@@ -74,5 +74,9 @@ __Creacion de archivos DHFS:__
   En este SS, se muestra la interfaz de files (DHFS) y como se creo una carpeta llamada datasets para probar esta herramienta
 
 __Creacion de un nuevo bucket en S3:__   
-  ![s3NewBucket]()   
-  Aqui se puede mostrar como se creo un nuevo bucket en la pestaña de S3 llamada datasetssmenesesd
+  ![s3NewBucket](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/s3NewBucket.png)   
+  Aqui se puede mostrar como se creo un nuevo bucket en la pestaña de S3 llamada datasetssmenesesd, y en este S3 es donde se van a almacenar datos que siempre van a permanecer.
+
+__Ingreso a JupyterHUB:__   
+  ![entramosjupyterHUB]()   
+  Podemos ver que logramos entrar a jupyterHUB y estamos en el login
