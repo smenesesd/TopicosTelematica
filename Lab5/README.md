@@ -86,5 +86,9 @@ __Verificacion de Spark en jupyter:__
   En este SS podemos verificar que en jupyter si esta bien configurado spark.
 
 __Ingreso a zeppelin:__   
-  ![mainZeppelin]()   
+  ![mainZeppelin](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/mainZeppelin.png)   
   Verificamos de que sea posible el ingreso a Zeppelin
+
+__Verificamos el uso de spark en zeppelin:__  
+  ![zeppelinSpark]()   
+  Se ingresan unos comandos a la linea de codigo para verificar el uso de spark en zeppelin.
