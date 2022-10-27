@@ -62,5 +62,9 @@ __DNS para la conexion del master:__
   - Comprobe la conexion al master desde dos maquinas diferentes, desde un S.O apple y desde un windows 
   - Nos metemos a el cluster creado y nos conectamos al master medio SSH
 
-__Comandos para verificar el sistema de almacenamiento:__   
-  ![ComandosparasistdeaAlma]() 
+__Comandos para verificar el sistema de almacenamiento HDFS:__   
+  ![ComandosparasistdeaAlma](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/ComandosparasistdeAlma.png) 
+
+__Ingreso a HUE:__   
+  ![configdeHUE]()   
+  Aqui podemos ver que ya entramos al main de HUE y ya se habilitaron los puertos necesarios para la elaboracion de este lab5
