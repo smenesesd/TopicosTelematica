@@ -66,5 +66,9 @@ __Comandos para verificar el sistema de almacenamiento HDFS:__
   ![ComandosparasistdeaAlma](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/ComandosparasistdeAlma.png) 
 
 __Ingreso a HUE:__   
-  ![configdeHUE]()   
+  ![configdeHUE](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Cluster/configdeHUE.png)   
   Aqui podemos ver que ya entramos al main de HUE y ya se habilitaron los puertos necesarios para la elaboracion de este lab5
+
+__Creacion de archivos DHFS:__   
+  ![archivosDHFS]()   
+  En este SS, se muestra la interfaz de files (DHFS) y como se creo una carpeta llamada datasets para probar esta herramienta
