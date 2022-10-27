@@ -62,3 +62,5 @@ __DNS para la conexion del master:__
   - Comprobe la conexion al master desde dos maquinas diferentes, desde un S.O apple y desde un windows 
   - Nos metemos a el cluster creado y nos conectamos al master medio SSH
 
+__Comandos para verificar el sistema de almacenamiento:__   
+  ![ComandosparasistdeaAlma]() 
