@@ -6,38 +6,38 @@
 # 
 # Creacion de cluster
 __Primer paso para la creacion del closter:__   
-   ![Ccloster1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Ccloster1.png)
+   ![Ccloster1](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/Ccloster1.png)
 
 __Segundo paso:__      
-   ![version](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/version.png)   
+   ![version](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/version.png)   
 Se escoge la version EMR en la que se va a basar el cluster
 
 __Tercer paso:__   
-   ![ComponentesSeleccionados](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/ComponentesSeleccionados.png)   
+   ![ComponentesSeleccionados](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/ComponentesSeleccionados.png)   
 Se escogen los componentes con los que vamos a trabajar
 
 __Cuarto paso:__      
-   ![IntegracionDelCatalogoGlue](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/integracionDelCatalogoGlue.png)   
+   ![IntegracionDelCatalogoGlue](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/integracionDelCatalogoGlue.png)   
 Se escogen las dos opciones que dan para hacer la integracion del catalogo Glue
 
 __Quinto paso:__   
-   ![ConfigBucket](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/configBucket.png)   
+   ![ConfigBucket](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/configBucket.png)   
 Se hace la configuracion del bucket basandonos en el documento de AWS sobre la configuracion de persistencia para Notebooks en amazon S3
 
 __Sexto paso:__   
-   ![CambiodeHW](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/cambioDeHW.png)   
+   ![CambiodeHW](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/cambioDeHW.png)   
 Se hace el cambio de HW para el M4.xlarge, ya que el que viene por defecto no deja correrlo por ser AWS academy
 
 __Septimo paso:__   
-   ![terminygb](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/terminygb.png)   
+   ![terminygb](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/terminygb.png)   
 Se configura la terminacion automatica del cluster y se aumenta la cantidad de gb
 
 __Octavo paso:__   
-   ![nombreCluster](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/nombreCluster.png)   
+   ![nombreCluster](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/nombreCluster.png)   
 Se hace la eleccion del cluster name
 
 __Noveno paso:__   
-   ![claveEC2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/claveEC2.png)   
+   ![claveEC2](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/img/Bucket/claveEC2.png)   
 Se hace la configuracion de la clave EC2, en este caso puse la que habia hecho para el trabajo en redis
 
 __Decimo paso:__   
