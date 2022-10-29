@@ -64,3 +64,18 @@ CHOWN: Cambiar el dueño del archivo
 
 ![17](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/17.png)
 CHGRP: Cambiar el grupo del archivo
+
+__Gestion de archivos VIA HUE en amazon EMR:__
+![18](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/18.png)
+
+![19](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/19.png)
+
+![20](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/20.png)
+
+![21](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/21.png)
+
+![22](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/22.png)
+
+![23](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/23.png)
+
+![24](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/24.png)
