@@ -26,3 +26,41 @@ Se hace la copia de los archivos compilados por medio de SSH/SCP al servidor gat
 
 __Verificacion de la copia de los archivos locales en el hadoop:__
 ![5](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/5.png)
+
+__Archivos en Amazon s3:__
+![6](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/6.png)   
+```hadoop distcp``` Es una herramienta para copiar datos del inter-cluster.
+
+__ls al gutenberg-small:__
+![7](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/7.png)
+
+__Copiar archivos de HDFS hacia el servidor(gateway):__
+![8](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/8.png)
+
+__Otros comandos para traer archivos:__
+![9](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/9.png)
+
+__Otros comandos:__
+![10](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/10.png)   
+DU: uso de disco en bytes
+
+![11](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/11.png)   
+MV: mover archivos
+
+![12](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/12.png)   
+CP: Copiar archivos
+
+![13](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/13.png)
+RM: Borrar archivos
+
+![14](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/14.png)   
+CAT: Mostrar contenido del archivo
+
+![15](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/15.png)   
+CHMOD: Cambiar los permisos del archivo
+
+![16](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/16.png)   
+CHOWN: Cambiar el dueño del archivo
+
+![17](https://raw.githubusercontent.com/smenesesd/TopicosTelematica/main/Lab5/Lab5-2/img/17.png)
+CHGRP: Cambiar el grupo del archivo
