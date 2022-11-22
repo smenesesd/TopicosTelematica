@@ -2,6 +2,8 @@
 ## main branch:
 - lab1
 - lab5
+- lab06
+- Proyecto 3
 
 ## master branch: 
 - Claves
